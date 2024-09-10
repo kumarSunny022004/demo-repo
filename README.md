@@ -1,4 +1,4 @@
 # Demo
 
 some description.....!<br>
-myname is kuamr sunny
+my name is kuamr sunny
